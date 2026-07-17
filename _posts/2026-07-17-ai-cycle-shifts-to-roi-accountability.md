@@ -1,8 +1,9 @@
-﻿---
+---
+date: 2026-07-17 08:27:38 +0000
 title: "The AI Cycle Shifts: From Blind Capex to ROI Accountability"
-date: 2026-07-17
 categories: [Tech]
-tags: [AI, Trends, Business, Investment]
+tags: [ai, trends, business, investment]
+description: Four business trends as AI shifts from a blind capex build-out to ROI accountability.
 ---
 
 We are witnessing a critical turning point in the technology sector: the AI industry cycle has officially moved past the "blind infrastructure building" phase and is now comprehensively entering the "ROI (Return on Investment) accountability" era. 
