@@ -49,5 +49,5 @@ The era of "generalized generation" is coming to an end, and "domain-specific fi
 More importantly, **the decentralization of "system read/write execution rights" is the trigger for a commercial explosion**. The biggest test for an AI application to successfully complete a commercial closed loop is having the courage and capability to take over real "write permissions" from core enterprise systems (CRM, ERP, trading systems) under sandbox protection. Advancing from "AI telling you what to do" to "AI helping you get it done within the system" is the endgame with the most disruptive commercial potential.
 
 ***
-> **参考资料 / Reference**
+> **Reference**
 > - [2026 China Enterprise AI Application Scenarios Report (Deep Web Research Synthesis)](#)
