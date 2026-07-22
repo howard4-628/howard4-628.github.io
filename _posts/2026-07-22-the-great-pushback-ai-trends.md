@@ -35,5 +35,5 @@ As observers have pointedly asked: "Five men control AI. Who controls them?" Thi
 AI has entered its "Deep Integration Phase." It is colliding head-on with existing social institutions, physical resources, and capital structures. The winners of this era will not just be those with the smartest models, but those who can solve the pressing challenges of energy consumption, workforce anxiety, and real-world capital conversion.
 
 ---
-**Reference / 参考资料:**
+**References:**
 * [AI Backlash Intensifies as Governments, Workers and Investors Push Back](https://ainewstoday.net/AI-Backlash-Intensifies-as-Governments,-Workers-and-Investors-Push-Back)
